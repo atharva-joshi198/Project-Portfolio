@@ -1,0 +1,1 @@
+This directory contains the project report for Qlik Sense dashboard created as part of final Capstone Project. The dashboard can be made accessible on request.
